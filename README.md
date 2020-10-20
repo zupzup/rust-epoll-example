@@ -1,4 +1,4 @@
-# rust-poll-example
+# rust-epoll-example
 
 Start with `cargo run`. Then, you can send HTTP requests to the server at http://127.0.0.1:8000.
 
